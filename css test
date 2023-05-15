@@ -8,10 +8,9 @@
         { 
             width:100px; 
             height:30px;
-            position: absolute;
             float: right;
             right: 0;
-            top: 120px;
+            top: 50%;
             display:inline-block; 
             vertical-align:middle; 
             padding:10px; 
@@ -44,15 +43,17 @@
           }
       }
     </script>
-    <img id="image0" src="https://web.mcu.edu.tw/sites/default/files/logo-img.png" width="200">
-    <p>Hello world!</p>
-    <p></p>
     <ul class="nav clearfix" >
         <li><a href="https://www.youtube.com/">Home</a></li>
         <li><a href="https://music.youtube.com/watch?v=njjIg-iU-RA">About</a></li>
         <li><a href="https://github.com/kikoii/code/blob/main/myhtml">Shop</a></li>
     </ul>
-    <img id="image1" src="https://web.mcu.edu.tw/sites/default/files/20160518-DSC_0284_0.jpg" width="300">
+
+    <img id="image0" src="https://web.mcu.edu.tw/sites/default/files/logo-img.png" width="200">
     
+    <p>Hello world!</p>
+    
+    <img id="image1" src="https://web.mcu.edu.tw/sites/default/files/20160518-DSC_0284_0.jpg" width="300">
+  
   </body>
 </html>
